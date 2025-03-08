@@ -100,8 +100,10 @@ Model performance is assessed based on:
 - Can influence urban planning decisions to mitigate extreme heat effects.
 
 ## Contributors
-- [Your Name]
-- [Team Members]
+- Serjius Infanto
+- Pranav Srinivasan
+- Ravi Vignesh
+- Athreya Sudharshan
 
 ## License
 This project is licensed under the MIT License.
